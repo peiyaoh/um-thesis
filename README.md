@@ -1,4 +1,4 @@
-# Overview
+# University of Michigan Rackham Ph.D. Thesis & Dissertation Template
 
 This project is based on the repository created by [pettni](https://github.com/pettni/um-thesis).
 
