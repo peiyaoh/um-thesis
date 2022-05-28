@@ -1,3 +1,12 @@
+# Overview
+
+This project is based on the repository created by [pettni] (https://github.com/pettni/um-thesis).
+
+I modified it to provide additional instructions, structure, styling, and packages.
+
+(See below for the original README content.)
+
+
 [![ubuntu-latest-texlive](https://github.com/pettni/um-thesis/workflows/ubuntu-latest-texlive/badge.svg)](https://github.com/pettni/um-thesis/actions?query=workflow:ubuntu-latest-texlive) [![ubuntu-latest-texlive](https://github.com/pettni/um-thesis/workflows/ubuntu-20.04-apt/badge.svg)](https://github.com/pettni/um-thesis/actions?query=workflow:ubuntu-20.04-apt)
 
 # um-thesis
