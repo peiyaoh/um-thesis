@@ -2,7 +2,7 @@
 
 I modified the template created by [pettni](https://github.com/pettni/um-thesis) to provide additional instructions, structure, packages, and styling changes based on [Rackham's formatting guidelines](https://rackham.umich.edu/navigating-your-degree/formatting-guidelines/) as of January 2022.
 
-Example of a complete dissertation (passing Rackham's format check in January 2022) using this template: https://deepblue.lib.umich.edu/handle/2027.42/172607.
+Example of a complete dissertation (passing Rackham's format check in January 2022) using this template (using [Overleaf](https://www.overleaf.com/) to compile): https://deepblue.lib.umich.edu/handle/2027.42/172607.
 
 I welcome suggestions and contributions (e.g., pull requests) that help improve the template and the provided instructions. 
 
